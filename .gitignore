@@ -1,2 +1,4 @@
 *.xlsx
 out
+
+.DS_Store
