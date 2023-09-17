@@ -1,0 +1,8 @@
+{
+  "deno": {
+    "enable": true,
+    "unstable": true,
+    "lint": true,
+    "jsx": "react"
+  }
+}
