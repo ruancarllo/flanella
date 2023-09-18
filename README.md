@@ -13,7 +13,7 @@ Com isso, são geradas imagens de cada gráfico, como o mostrado acima, em uma p
 Para que o programa funcione corretamente em sua máquina, instale a última versão do [Deno](https://deno.com) em seu computador, abra um terminal na pasta deste script, e execute o seguinte comando:
 
 ```sh
-deno run --allow-all programa/script.ts <caminho da planilha> <caminho da pasta para os resultados>
+deno run --allow-all programa/script.ts <caminho da planilha> <caminho da pasta dos resultados>
 ```
 
 ## Modificação
